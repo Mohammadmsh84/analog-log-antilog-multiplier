@@ -1,0 +1,6 @@
+# Temporary files from operating systems and Office
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
