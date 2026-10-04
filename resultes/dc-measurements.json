@@ -1,0 +1,58 @@
+{
+  "source": "docs/multiplier-report.docx",
+  "source_table": "Final three-row DC input/output table",
+  "source_output_row_label": "K*V1*V2",
+  "voltage_unit": "V",
+  "reported_approximate_coefficient": {
+    "value": 0.45,
+    "unit": "1/V"
+  },
+  "measurement_count": 9,
+  "records": [
+    {
+      "v1_volts": 1.0,
+      "v2_volts": 2.0,
+      "vout_volts": 0.908
+    },
+    {
+      "v1_volts": 1.6,
+      "v2_volts": 2.0,
+      "vout_volts": 1.44
+    },
+    {
+      "v1_volts": 2.0,
+      "v2_volts": 2.0,
+      "vout_volts": 1.869
+    },
+    {
+      "v1_volts": 2.5,
+      "v2_volts": 2.0,
+      "vout_volts": 2.3
+    },
+    {
+      "v1_volts": 3.0,
+      "v2_volts": 2.0,
+      "vout_volts": 2.759
+    },
+    {
+      "v1_volts": 3.5,
+      "v2_volts": 2.0,
+      "vout_volts": 3.203
+    },
+    {
+      "v1_volts": 4.0,
+      "v2_volts": 2.0,
+      "vout_volts": 3.536
+    },
+    {
+      "v1_volts": 4.5,
+      "v2_volts": 2.0,
+      "vout_volts": 4.127
+    },
+    {
+      "v1_volts": 5.1,
+      "v2_volts": 2.0,
+      "vout_volts": 4.614
+    }
+  ]
+}
